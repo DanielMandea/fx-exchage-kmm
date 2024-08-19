@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jetbrains.kmpapp.shared-release-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/danielmandea/.gradle/caches/8.8/transforms/1fa3dc4157117af1704c32960dc1c1cb/transformed/lifecycle-viewmodel-release/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.jetbrains.kmpapp.shared-mergeReleaseResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/danielmandea/.gradle/caches/8.8/transforms/1fa3dc4157117af1704c32960dc1c1cb/transformed/lifecycle-viewmodel-release/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

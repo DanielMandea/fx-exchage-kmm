@@ -1,0 +1,2 @@
+
+<shared_commonMain>:com.jetbrains.kmpapp.data.fx: com.jetbrains.kmpapp.data.museum:com.jetbrains.kmpapp.di:com.jetbrains.kmpapp.screens.fx:#com.jetbrains.kmpapp.screens.museum

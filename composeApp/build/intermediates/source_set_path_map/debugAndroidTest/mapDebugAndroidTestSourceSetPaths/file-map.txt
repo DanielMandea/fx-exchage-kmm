@@ -1,0 +1,4 @@
+com.jetbrains.kmpapp.test.composeApp-androidTest-0 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/composeApp/build/generated/res/resValues/androidTest/debug
+com.jetbrains.kmpapp.test.composeApp-mergeDebugAndroidTestResources-1 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.jetbrains.kmpapp.test.composeApp-mergeDebugAndroidTestResources-2 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.jetbrains.kmpapp.test.composeApp-debugAndroidTest-3 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/composeApp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

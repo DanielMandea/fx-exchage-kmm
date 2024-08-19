@@ -1,0 +1,10 @@
+com.jetbrains.kmpapp.shared-lifecycle-viewmodel-release-0 /Users/danielmandea/.gradle/caches/8.8/transforms/1fa3dc4157117af1704c32960dc1c1cb/transformed/lifecycle-viewmodel-release/res
+com.jetbrains.kmpapp.shared-pngs-1 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/build/generated/res/pngs/release
+com.jetbrains.kmpapp.shared-resValues-2 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/build/generated/res/resValues/release
+com.jetbrains.kmpapp.shared-mergeReleaseResources-3 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.jetbrains.kmpapp.shared-mergeReleaseResources-4 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.jetbrains.kmpapp.shared-release-5 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/build/intermediates/merged_res/release/mergeReleaseResources
+com.jetbrains.kmpapp.shared-androidMain-6 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/src/androidMain/res
+com.jetbrains.kmpapp.shared-androidRelease-7 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/src/androidRelease/res
+com.jetbrains.kmpapp.shared-main-8 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/src/main/res
+com.jetbrains.kmpapp.shared-release-9 /Users/danielmandea/Downloads/KMP-App-Template-Native-main/shared/src/release/res
